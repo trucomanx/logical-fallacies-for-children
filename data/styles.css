@@ -252,8 +252,8 @@ footer {
 .modal-content {
   margin: auto;
   display: block;
-  height: 80%;
-  max-width: 500px;
+  height: 70%;
+  /*max-width: 500px;*/
   transition: transform 2.5s ease; /* Suaviza a animação do zoom */
 }
 
